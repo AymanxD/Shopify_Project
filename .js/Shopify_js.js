@@ -10,9 +10,5 @@ var html= "";
     revenue = revenue.toFixed(2);
     html= "<div> Total order revenue: $" + revenue +"</div>";
     $(".revenue").html(html);
-    console.log(html);
   })
 })
-
-
-//data.orders[i].total_price /*
