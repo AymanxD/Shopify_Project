@@ -1,3 +1,3 @@
-Project created for Shopify Internship.
+Project created for the Shopify Internship.
 
 By Ayman Mohatarem
